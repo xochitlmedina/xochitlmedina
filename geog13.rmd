@@ -1,0 +1,11 @@
+---
+title: "Projects"
+---
+
+Here is a collection of projects from a six-week course I took on programming in the summer of 2021, which was also my first time using R!
+
+## [Building a project website]()
+
+- In this assignment I created a GitHub user site
+- I gained an understanding of Rmarkdown syntax
+- I learned how to format a website

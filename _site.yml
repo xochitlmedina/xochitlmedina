@@ -1,0 +1,16 @@
+name: "Xochitl's-website" <i class="fa fa-heart-o" aria-hidden="true"></i>
+output_dir: "."
+navbar:
+  title: "Xochitl's Website"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "GIS Work"
+      icon: fa-bookmark
+      href: geog13.html
+
+output:
+  html_document:
+    theme: yeti
+    

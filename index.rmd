@@ -1,0 +1,10 @@
+---
+title: "About Me"
+---
+  
+<center>
+# Hello! I am Xochitl! :)
+</center>
+  ![This is me :D](images/IMG_7338.png)
+</center>
+Hello! I am Xochitl *(So-chee)* Medina! I am a Rising Fourth Year Geography and Environmental Studies double major at UC Santa Barbara. My interests include rock music, baseball, playing guitar, ballroom dancing, crocheting, sewing, and painting. I like using exclamation points when writing digital messages to come off enthusiastic and non aggressive! I am very new to computer science!!!!
