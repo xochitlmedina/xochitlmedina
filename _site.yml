@@ -9,6 +9,9 @@ navbar:
     - text: "GIS Work"
       icon: fa-bookmark
       href: geog13.html
+    - text: Resume
+      icon: fa-graduation-cap
+      href: xochitl.html
 
 output:
   html_document:
