@@ -1,5 +1,4 @@
-name: "Xochitl's-website" <i class="fa fa-heart-o" aria-hidden="true"></i>
-output_dir: "."
+name: "Xochitl's-website" 
 navbar:
   title: "Xochitl's Website"
   left:
