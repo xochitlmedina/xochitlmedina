@@ -7,4 +7,10 @@ title: "About Me"
 </center>
   ![This is me :D](images/IMG_7338.png)
 </center>
-Hello! I am Xochitl *(So-chee)* Medina! I am a Rising Fourth Year Geography and Environmental Studies double major at UC Santa Barbara. My interests include rock music, baseball, playing guitar, ballroom dancing, crocheting, sewing, and painting. I like using exclamation points when writing digital messages to come off enthusiastic and non aggressive! I am very new to computer science!!!!
+Hello! I am Xochitl *(So-chee)* Medina! I am a Rising Fourth Year Geography and Environmental Studies double major at UC Santa Barbara. I created this website in a six week summer course on the subject of programming for GIS majors. This was not my first experience with computer science or GIS, but this class was my first experience with the two combined. I had worked with statistical data relating to geography in a MatLab-based class before, and learned an in-depth practical approach to GIS in an ArcGIS-based 3-class series. After having taken these five classes related specifically to analyzing geographic data, I am proficient in handling geographic information and supplementing my analysis with programming-based data wrangling methods.
+
+For more information on the projects I worked on in this six-week summer source, click the "GIS Work" tab above or click [here](https://xochitlmedina.github.io/xochitlmedina/geog13.html)
+
+To access my github profile, click [here](https://github.com/xochitlmedina)
+
+To contact me, email me at xmedina@ucsb.edu 

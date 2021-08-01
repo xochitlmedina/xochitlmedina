@@ -11,20 +11,32 @@ Here is a collection of projects from a six-week course I took on programming in
 - I learned how to format a website
 
 ## [Lab 2: Data Wrangling - An Analysis of The Covid-19 Pandemic](https://xochitlmedina.github.io/geog-13-labs/geog-13-labs/docs/lab-o2.html)
+ 
+ ![Lab 2 ](images/lab2chart.png)
+  
+  
 
-- Gained a strong understanding of the functions of the dplyr package
-- Made plots that suited the data at hand
-- Found the 7-day rolling mean of data that represented daily events
+- I gained a strong understanding of the functions of the dplyr package
+- I made plots that suited the data at hand
+- I found the 7-day rolling mean of data that represented daily events
 
 ## [Lab 3: Projections, Distancing, and Mapping - An Analysis of US Borders](https://xochitlmedina.github.io/geog-13-labs//lab-03.html)
 
-- Gained a strong understanding of the functions of the SF package
-- Changed the projections of spatial data within RStudio 
-- Plotted spatial data using varying line weights, colors, and sizes
+ ![Lab 3 ](images/lab3chart.png)
+ 
+ 
+
+- I gained a strong understanding of the functions of the SF package
+- I changed the projections of spatial data within RStudio 
+- I plotted spatial data using varying line weights, colors, and sizes
 
 ## [Lab 4: Tesselations, Spatial Joins, and Point-in-Polygon - An Analysis Dams and Tessellations](https://xochitlmedina.github.io/geog-13-labs//lab-04.html)
 
-- Learned what a tessellation is
-- Learned the difference between different tessellations and coverages
-- Modified aforementioned tessellations
+ ![Lab 4 ](images/lab4chart.png)
+ 
+
+
+- I learned what a tessellation is
+- I learned the difference between different tessellations and coverages
+- I modified aforementioned tessellations
 
