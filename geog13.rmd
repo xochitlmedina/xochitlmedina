@@ -4,8 +4,27 @@ title: "Projects"
 
 Here is a collection of projects from a six-week course I took on programming in the summer of 2021, which was also my first time using R!
 
-## [Building a project website]()
+## [Building a project website](https://xochitlmedina.github.io/xochitlmedina/)
 
 - In this assignment I created a GitHub user site
 - I gained an understanding of Rmarkdown syntax
 - I learned how to format a website
+
+## ["Data Wrangling" - An Analysis of The Covid-19 Pandemic](https://xochitlmedina.github.io/geog-13-labs/geog-13-labs/docs/lab-o2.html)
+
+- Gained a strong understanding of the functions of the dplyr package
+- Made plots that suited the data at hand
+- Found the 7-day rolling mean of data that represented daily events
+
+## ["Projections, Distancing, and Mapping" - An Analysis of US Borders](https://xochitlmedina.github.io/geog-13-labs//lab-03.html)
+
+- Gained a strong understanding of the functions of the SF package
+- Changed the projections of spatial data within RStudio 
+- Plotted spatial data using varying line weights, colors, and sizes
+
+## ["Tesselations, Spatial Joins, and Point-in-Polygon" - An Analysis Dams and Tessellations](https://xochitlmedina.github.io/geog-13-labs//lab-04.html)
+
+- Learned what a tessellation is
+- Learned the difference between different tessellations and coverages
+- Modified aforementioned tessellations
+
